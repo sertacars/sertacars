@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sertacars
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Sertac
+- 🌱 I’m currently learning React & Next.js
 - 📫 How to reach me sertacaras1@gmail.com
 
 <!---
