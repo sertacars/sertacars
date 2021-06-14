@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sertac
 - 🌱 I’m currently learning React & Next.js
-- 📫 How to reach me sertacaras1@gmail.com
+- 📫 You can reach me through sertacaras1@gmail.com
 
 <!---
 sertacars/sertacars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
