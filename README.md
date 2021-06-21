@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sertac
-- 🌱 I’m currently learning React & Next.js
+- 💻 Specializing in web development front & back end
+- ⚙️ Currently learning React & Next.js
 - 📫 You can reach me through sertacaras1@gmail.com
 
 <!---
