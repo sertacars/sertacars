@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sertac
+- 👋 Hey, I’m Sertac
 - 💻 Specializing in web development front & back end
 - ⚙️ Currently learning React & Next.js
 - 📫 You can reach me through sertacaras1@gmail.com
