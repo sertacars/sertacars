@@ -1,4 +1,5 @@
-- 👋 Hey, I’m Sertac
+- 👋 Hey, I’m Sertaç
+- 🌱 Fresh software engineering graduate
 - 💻 Specializing in web development front & back end
 - ⚙️ Currently learning React & Next.js
 - 📫 You can reach me through sertacaras1@gmail.com
