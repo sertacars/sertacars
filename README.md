@@ -26,6 +26,9 @@
   <p>Currently working as a front-end developer at Turkish Radio and Television Corporation and its international VOD platform <a href="https://www.tabii.com"> tabii </a>.</p>
   <p>(Mostly) into developing full-stack web applications using MERN Stack for personal projects.</p>
   <p>Exploring AI tools such as ChatGPT, Bard and Stable Diffusion for data analysis and prediction during my free time.</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-sertacars-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sertac-aras)](https://www.linkedin.com/in/sertac-aras)
+  
 </div>
 
 <!--
