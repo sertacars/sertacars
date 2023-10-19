@@ -20,7 +20,7 @@
 
 <div align="center">
   <p>Hey!<p>
-  <p>Sertaç is here 💁🏻‍♂️ </p>
+  <p>Sertaç is here 💁🏻‍♂️</p>
   <p>A software engineer with a master’s degree in software engineering.</p>
   <p>Currently working as a front-end developer at Turkish Radio and Television Corporation and its international VOD platform <a href="https://www.tabii.com"> tabii </a>.</p>
   <p>(Mostly) into developing full-stack web applications using MERN Stack for personal projects.</p>
