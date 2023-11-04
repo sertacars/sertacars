@@ -17,7 +17,6 @@
 </a>
     
 [![Linkedin Badge](https://img.shields.io/badge/-sertacars-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sertac-aras)](https://www.linkedin.com/in/sertac-aras)
-</div>
 
 <div align="center">
   <p>Hey!<p>
