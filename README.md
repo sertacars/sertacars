@@ -15,8 +15,6 @@
 <a href="https://github.com/sertacars">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 </a>
-    
-[![Linkedin Badge](https://img.shields.io/badge/-sertacars-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sertac-aras)](https://www.linkedin.com/in/sertac-aras)
 
 <div align="center">
   <p>Hey!<p>
@@ -26,6 +24,12 @@
   <p>(Mostly) into developing full-stack web applications using MERN Stack for personal projects</p>
   <p>Exploring AI tools such as ChatGPT, Bard and Stable Diffusion for data analysis and prediction during my free time</p>
   
+</div>
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-sertacars-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sertac-aras)](https://www.linkedin.com/in/sertac-aras)
+
 </div>
 
 <!--
