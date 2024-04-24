@@ -22,7 +22,7 @@
   <p>👨‍💻 Front-end developer with a master’s degree in software engineering. Currently working at the Turkish Radio and Television Corporation, where I contribute to their international VOD platform <a href="https://www.tabii.com"> tabii </a>.</p>
   <p>🌐 Passionate about full-stack web development using the MERN stack. From crafting responsive UIs with React to building robust APIs with Node.js, I love every layer of the stack.</p>
   <p>🤖 I'm currently exploring AI tools for data analysis, seeking to potentially enhance future projects.</p>
-  <p>Connect with me on LinkedIn:</p>
+  <p>Find me on LinkedIn:</p>
   
 </div>
 
